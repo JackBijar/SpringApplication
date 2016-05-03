@@ -4,7 +4,7 @@
 <html>
 	<head>
 		<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-		<title>Home</title>
+		<title>Select Any One</title>
 	</head>
 	<body><br><br><br>
 		<div id="demo" align="center">
