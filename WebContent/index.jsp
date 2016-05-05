@@ -9,7 +9,7 @@
 	<body><br><br><br>
 		<div id="demo" align="center">
 			<a href="hello.html">Check Welcome Message</a> &nbsp;&nbsp;&nbsp;&nbsp;
-			<a href="welcome.html">Check Time</a> 
+			<a href="welcome.html">Please Check Your Time</a> 
 		</div>
 	</body>
 </html>
